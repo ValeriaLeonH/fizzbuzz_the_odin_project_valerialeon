@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-THis is [Live](https://valerialeonh.github.io/fizzbuzz_the_odin_project_valerialeon/)
+THis is [Live](https://valerialeonh.github.io/fizzbuzz_the_odin_project_valerialeon/index.html)
 
 
 ## Getting Started
